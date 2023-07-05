@@ -1,0 +1,31 @@
+.main{
+background-color: #ebebeb;
+}
+
+.main-input{
+    width: 80%;
+    /* text-align: center; */
+    background-color: #fff;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.main-input-box{
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+.main-input-titleName{
+    font-size: 26px;
+
+}
+
+.main-input-btnColorYellow{
+    color: #fff;
+    background-color: #f0ad4e;
+    border-color: #eea236;
+    text-decoration: none;
+
+}
